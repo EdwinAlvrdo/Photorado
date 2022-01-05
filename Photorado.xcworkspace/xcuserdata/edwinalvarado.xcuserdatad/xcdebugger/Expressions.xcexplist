@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PhotoradoTests.testThatTestBundleHasMockAsset():PhotoradoTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "testBundle">
+            </PersistentString>
+            <PersistentString
+               value = "testBundle.url(forResource: &quot;mock_feeds_colorado_mountains&quot;, withExtension: &quot;json&quot;, subdirectory: &quot;Mocks&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ItemCell.setLabel(title:author:):ItemCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "author?.components(separatedBy: &quot;\\&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in FeedsViewModel.attemptFetchMountainFeed():FeedsViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FeedsViewModel.numberOfItems.getter:FeedsViewModel.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,6 @@
+framework module Pods_Photorado {
+  umbrella header "Pods-Photorado-umbrella.h"
+
+  export *
+  module * { export * }
+}
